@@ -1,0 +1,7 @@
+Please don't start a new topic by replying to an existing message, because
+this will put it under an existing thread in threaded, tree-like mailers.
+Instead, write a new message to the mailing list.
+
+The problem is that the "In-Reply-To" headers are still kept:
+
+http://www.shlomifish.org/philosophy/computers/netiquette/email/start-new-thread.html
