@@ -1,0 +1,14 @@
+Hi,
+
+you have sent me a reply in private E-mail to a public post I sent to a
+mailing list, without telling me that you wish to keep the post private, and
+specifying exactly why. Please see:
+
+* http://www.shlomifish.org/philosophy/computers/netiquette/email/reply-to-list.html
+
+* http://www.shlomifish.org/meta/FAQ/#reply_to_list
+
+Next time, please make a wise use of your E-mail client's Reply-to-all or
+Reply-to-List features. (Also please note that I specifically request that you
+won't reply to my public posts in private in the last line of my signature,
+which is appended to all my E-mail messages.)
